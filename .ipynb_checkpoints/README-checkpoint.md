@@ -1,7 +1,3 @@
-i# Group-Exercise-One
-
-Group Members: 
-Madison Little
-
-
+# Group-Exercise-One
+ 
  this program takes a user's name and residence the procedes to insult them
