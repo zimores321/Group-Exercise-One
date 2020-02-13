@@ -1,1 +1,3 @@
-hour = float(input(prompt="How many hours did you work? "))
+name = input(prompt="hey, whats your name?"))
+loation = input(prompt="hey, whats your name?"))
+print("so "+name+"your from "+location+", i always hated it there.")
